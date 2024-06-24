@@ -1,3 +1,5 @@
+![Logo](https://github.com/bambus80/freezerburn/blob/98591fd56af202f3ea8e7d2d3f9834ebb94c2afb/logo.png?raw=true "a title")
+
 # FreezerBurn
 A utility for removal of anticheat measures from Scratch projects, designed with pastaOS in mind.
 
